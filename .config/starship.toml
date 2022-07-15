@@ -97,3 +97,21 @@ disabled = false
 "infra-home-kube-prod-2" = " prod-2"
 "infra-cloud-kube-prod-1" = " prod-1"
 "infra-cloud-kube-test-1" = " test-1"
+
+[aws]
+symbol = "  "
+
+[buf]
+symbol = " "
+
+[c]
+symbol = " "
+
+[conda]
+symbol = " "
+
+[dart]
+symbol = " "
+
+[java]
+symbol = " "
